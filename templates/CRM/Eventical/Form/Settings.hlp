@@ -1,0 +1,7 @@
+{*
+ * https://civicrm.org/licensing
+*}
+
+{htxt id='eventical_url'}
+{ts}Select the type of event URL to show in the iCalendar feed{/ts}
+{/htxt}
